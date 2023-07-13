@@ -36,4 +36,4 @@ services:
       - db
     volumes:
       - static:/static
-      - media:/media
+      - media:/app/media
